@@ -1,5 +1,4 @@
 import json
-
 from remover.remover import Remover
 
 if __name__ == '__main__':
