@@ -1,6 +1,5 @@
 import os
 
-
 class Remover:
 
     def __init__(self, directory, delete_dir=False, file_ext='.bak', parent_ext='.doc'):
